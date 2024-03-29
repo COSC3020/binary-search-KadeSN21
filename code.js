@@ -16,8 +16,3 @@ function binarySearch(list, element) {
 
     return -1
 }
-
-const array = [18,18,18];
-const target = 18;
-const index = binarySearch(array, target);
-console.log(index); // Output: 0 (index of the first occurrence of 1)
